@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>RADTECH EAST AFRICA CO LIMITED</title>
+  <title>CONTACTS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -51,10 +51,10 @@
 
             <nav class="site-navigation text-left ml-auto " role="navigation">
               <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                <li class="active"><a href="index.php" class="nav-link">Home</a></li>
+                <li><a href="index.php" class="nav-link">Home</a></li>
                 <li><a href="about.php" class="nav-link">About Us</a></li>
                 <li><a href="services.php" class="nav-link">Our Services</a></li>
-                <li><a href="contact.php" class="nav-link">Contact</a></li>
+                <li class="active"><a href="contact.php" class="nav-link">Contact</a></li>
               </ul>
             </nav>
 
@@ -76,66 +76,71 @@
       
 
       <div class="box-92819">
-        <h1 class="text-white mb-3">Welcome to RadTech Co.</h1>
-        <p><a href="about.php" class="btn btn-primary py-3 px-4 rounded-0">Learn More</a></p>
+        <h1 class="text-white mb-3">Contact</h1>
+        <p class="lead text-white">INTERESTED ? HERE'S HOW TO REACH US...</p>
       </div>
 
-      <div class="owl-carousel owl-1 ">
-        <div class="ftco-cover-1 overlay" style="background-image: url('images/Cool_Rad.jpg');"></div>
-        <div class="ftco-cover-1 overlay" style="background-image: url('images/rad_chamber.jpg');"></div>
-        <div class="ftco-cover-1 overlay" style="background-image: url('images/radtech_3.jpg');"></div>
-        <div class="ftco-cover-1 overlay" style="background-image: url('images/rad_machine.jpg');"></div>
-        
-      </div>
+      
+        <div class="ftco-cover-1 overlay" style="background-image: url('images/purple.jpg');"></div>
+      
     </div>
     
-    </div>
     
     <div class="site-section">
       <div class="container">
         
-            <div class="d-md-flex cta-20101 align-self-center bg-light p-5">
-              <div class=""><h2 class="text-cursive">World class Solution to radiation treatment.</h2></div>
-              <div class="ml-auto"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
-            </div>
-        
-      </div>
-    </div>
-    
-    <footer class="site-footer bg-white">
-      <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <div class="row">
-              <div class="col-md-7">
-                <h2 class="footer-heading mb-4">About Us</h2>
-                <p>RadTech East Africa Co. Limited (RadTech) was incorporated to bridge the gap between mitigating the risks involved with acute radiation exposure and actualizing the full benefits of radiation harnessing. </p>
-
-              </div>
-              <div class="col-md-4 ml-auto">
-                <h2 class="footer-heading mb-4">Features</h2>
-                <ul class="list-unstyled">
-                  <li><a href="about.php">About Us</a></li>
-                  <li><a href="causes.php">Our Activities</a></li>
-                  <li><a href="contact.php">Contact Us</a></li>
-                </ul>
+          <div class="col-lg-8 mb-5" >
+            <form action="#" method="post">
+              <div class="form-group row">
+                <div class="col-md-6 mb-4 mb-lg-0">
+                  <input type="text" class="form-control" placeholder="First name">
+                </div>
+                <div class="col-md-6">
+                  <input type="text" class="form-control" placeholder="First name">
+                </div>
               </div>
 
-            </div>
-          </div>
-          <div class="col-md-4 ml-auto">
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <input type="text" class="form-control" placeholder="Email address">
+                </div>
+              </div>
 
-            <h2 class="footer-heading mb-4">Follow Us</h2>
-            <a href="#" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              <div class="form-group row">
+                <div class="col-md-12">
+                  <textarea name="" id="" class="form-control" placeholder="Write your message." cols="30" rows="10"></textarea>
+                </div>
+              </div>
+              <div class="form-group row">
+                <div class="col-md-6 mr-auto">
+                  <input type="submit" class="btn btn-block btn-primary text-white py-3 px-5 rounded-0" value="Send Message">
+                </div>
+              </div>
             </form>
+          </div>
+          <div class="col-lg-4 ml-auto">
+            <div class="bg-white p-3 p-md-5">
+              <h3 class="text-cursive mb-4">Contact Info</h3>
+              <ul class="list-unstyled footer-link">
+                <li class="d-block mb-3">
+                  <span class="d-block text-muted small text-uppercase font-weight-bold">Address:</span>
+                  <span>P.O. Box 14738-00400 Nairobi,Kenya</span></li>
+                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Phone:</span>
+                  <span>+254720784195</span><br>
+                  <span>+254726586301</span><br>
+                  <span>+254721791776</span></li>
+                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Email:</span><span>info@radtech.co.ke:</span>
+                <span>Radtecheastafrica@gmail.com</span>
+
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
-    </footer>
-
+    </div>
+  
     </div>
 
     <script src="js/jquery-3.3.1.min.js"></script>
