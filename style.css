@@ -1,0 +1,45 @@
+*
+{
+	border: 0;
+	padding: 0;
+}
+
+header
+{
+    background-image: url(https://z-p3-scontent.fmba2-1.fna.fbcdn.net/v/t1.0-9/10455236_246621115535238_4365773872349004065_n.jpg?_nc_cat=105&_nc_ohc=eQrmKZzMiuEAX8ZBiN6&_nc_ht=z-p3-scontent.fmba2-1.fna&oh=c80a29c84a737e711435dcdc980507dd&oe=5ECCB28F);
+    height: 100vh;
+    background size: contain;
+    background position: center;
+}
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px; 
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+
+}
+
+.main-nav li.active a
+{
+	border: 1px solid black;
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid black;
+}
