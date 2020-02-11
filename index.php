@@ -9,10 +9,10 @@
 		<div class="row">
 		<ul class="main-nav">
 			<B>
-			<li class="active"><a href=""> HOME </a></li>
-			<li><a href="about.html"> ABOUT </a></li>
-			 <li><a href="SERVICES.html"> SERVICES </a></li>
-			<li><a href="CONTACTS.html"> CONTACT </a></li>
+			<li class="active"><a href="index.php"> HOME </a></li>
+			<li><a href="about.php"> ABOUT </a></li>
+			 <li><a href="services.php"> SERVICES </a></li>
+			<li><a href="contacts.php"> CONTACT </a></li>
 			<B>
 		
 		</ul>
